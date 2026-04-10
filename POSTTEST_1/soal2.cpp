@@ -13,7 +13,7 @@ int main() {
     const int jumlah = 5;
     Mahasiswa mhs[jumlah];
 
-    // Kita isi data mahasiswanya
+    // Kita tambahkan, mencakup nama, 3 digit nim terakhir, dan ipk nya
     mhs[0] = {"Bakil", "044", 4.00};
     mhs[1] = {"Balik", "045", 3.65};
     mhs[2] = {"Likab", "046", 3.75};
